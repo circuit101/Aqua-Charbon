@@ -1,0 +1,61 @@
+.footer{
+    background-color: #2BA7E7;
+    margin-top: 20px;
+    padding-bottom: 20px;
+}
+
+.socials{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    list-style: none;
+    gap: 30px;
+    padding-top: 20px;
+}
+/*icons*/
+.x-icon{
+    width: 30px;
+}
+.face-icon{
+    width: 30px;
+}
+.ist-icon{
+    width: 30px;
+}
+.ytb-icon{
+    width: 30px;
+}
+
+a{
+    text-decoration: none;
+}
+/*footerpages*/
+.footer-pages{
+    list-style: none;
+    display: grid;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: center;
+    gap: 10px;
+}
+
+.home-page{
+    padding-left: 7px;
+}
+
+.last-text{
+    display: grid;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.contact{
+    padding-left: 38px;
+    font-size: 0.8em;
+}
+
+.ster{
+    border-bottom: black solid;
+    padding-bottom: 10px;
+}
+/*hover text*/

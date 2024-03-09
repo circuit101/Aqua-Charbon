@@ -1,0 +1,12 @@
+.main-img{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: auto;
+    margin-right: auto;
+    height: 25rem;
+}
+
+.main-paragraph{
+    font-size: 1.2em;
+    line-height: 1.5em;
+}
