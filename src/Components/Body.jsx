@@ -4,7 +4,7 @@ import Product from "./Product"
 export default function Body(){
     return <>
     <body>
-        <img src="src\Pics\main_img-removebg-preview.png" className="main-img" />
+        <img src=".src/Pics/main_img-removebg-preview.png" className="main-img" />
         <section className="main-paragraph">
             <h3>Aqua-Charbon</h3>
             <p>Aqua-Charbon, where innovation meets purity. Dive into a world where water filtration isn't just a neccesity, it's a transformative experience. <br /> <br />
